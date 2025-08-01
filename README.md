@@ -1,7 +1,6 @@
 🎟️ Movie Ticket Management System
 
 A robust and user-friendly movie ticket management application developed using Python and SQL, designed to streamline the ticket booking process for both users and administrators.
-📖 About the Project
 
 The Movie Ticket Management System provides a complete solution for handling movie show listings, seat bookings, and user management. It is built to simulate real-world ticketing operations and is ideal for learning about database integration, role-based access control, and system workflows.
 
