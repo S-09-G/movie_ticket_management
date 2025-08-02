@@ -28,6 +28,4 @@ The Movie Ticket Management System provides a complete solution for handling mov
 
   🐍 Python – Core application logic and UI (CLI or Tkinter if GUI-based)
 
-  🗃️ SQL – Database for managing user data, bookings, movies, and seats
-
-  📁 Optional: SQLite / MySQL depending on your setup
+  🗃️ SQL – Database for managing user data, bookings, movies, and seats.
